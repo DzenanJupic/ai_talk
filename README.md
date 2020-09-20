@@ -2,9 +2,9 @@
 
 ## Overview
 - [History](#History)
-- [AI Types](#AI Types)
+- [AI Types](#AI-Types)
 - [Code](#Code)
-- [Great Sources](#Great Sources)
+- [Great Sources](#Great-Sources)
  
  
  ## History
@@ -56,8 +56,8 @@
   
  
  ## Code
- - [challenge](./mnist_classification_challenge.ipynb)
- - [code](./mnist_image_classification_code.ipynb)
+ - [challenge](./code/mnist_classification_challenge.ipynb)
+ - [code](./code/mnist_image_classification_code.ipynb)
  
  # Great Sources
  - [6 possible AI futures](https://youtu.be/p_fJPh11thM)
